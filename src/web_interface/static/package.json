@@ -12,7 +12,7 @@
     "jstree-bootstrap-theme": "^1.0.1",
     "moment": "^2.29.4",
     "popper.js": "^1.16.1",
-    "vis-network": "^9.1.6"
+    "vis-network": "^9.1.9"
   },
   "license": "GPL-3.0-only",
   "name": "FACT_core-static",
